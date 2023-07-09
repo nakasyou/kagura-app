@@ -1,0 +1,17 @@
+{
+  "name": "kagura-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "kagurajs": "^0.2.7"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  }
+}
